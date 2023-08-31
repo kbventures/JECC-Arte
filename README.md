@@ -5,7 +5,7 @@ JECC Arte is a business specialising in art and photography.
 **Website:** https://jeccarte.com
 
 <a target="_blank" href="https://jeccarte.com">
-    <img src="" height="190px" alt="Jecc Arte"/>
+    <img src="./images/DSC09978.jpeg" height="190px" alt="Jecc Arte"/>
 </a>
 
 ## How It's Made:
