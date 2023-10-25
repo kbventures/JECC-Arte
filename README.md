@@ -2,7 +2,7 @@
 
 JECC Arte is a business specialising in art and photography.
 
-**Website:** https://roberttercek.com/
+**Website:** https://jeccarte.com
 
 <a target="_blank" href="https://jeccarte.com">
     <img src="" height="190px" alt="Jecc Arte"/>
